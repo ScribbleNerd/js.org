@@ -263,6 +263,7 @@ var cnames_active = {
   "barbagrigia": "barbagrigia.github.io",
   "base64": "licshee.github.io/base64",
   "bash": "bashjs.github.io",
+  "bashjs": "https://scribblenerd.github.io/bash.js",
   "basicgame": "basicgame.github.io/basicGame.js", // noCF? (don´t add this in a new PR)
   "bassdrum": "malte-wessel.github.io/bassdrum",
   "bastion": "snkrsnkampa.github.io/Bastion-Site",
